@@ -1,0 +1,20 @@
+{
+  "data" : [
+    {
+      "username" : "Pradeep",
+      "email" : "pradeep123@gmail.com",
+      "password" : "Pradeep@123",
+      "drop_down" : "Male",
+      
+      "product_name" : "Blackberry"
+    },
+
+    {
+      "username" : "Shruthi",
+      "email" : "shruthi123@gmail.com",
+      "password" : "Shruthi@123",
+      "drop_down" : "Female",
+      "product_name" : "iphone"
+    }
+  ]
+}
