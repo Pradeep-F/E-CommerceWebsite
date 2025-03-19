@@ -6,7 +6,7 @@ from utility.BaseClass import BaseClass
 
 
 class Form_sumisson(BaseClass):
-# this project is developed by pradeep using python
+
     def __init__(self,driver):
         super().__init__(driver)     # using baseclass to call driver from that
         self.driver = driver
